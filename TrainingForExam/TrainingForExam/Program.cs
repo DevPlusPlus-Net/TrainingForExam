@@ -6,7 +6,7 @@ namespace TrainingForExam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! az 3777365");
+            Console.WriteLine("Hello World! az2 3777365");
         }
     }
 }
