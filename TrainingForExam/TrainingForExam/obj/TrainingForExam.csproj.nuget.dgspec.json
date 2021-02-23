@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avraham\\source\\repos\\TrainingForExam\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj": {}
+    "C:\\Users\\Avraham\\Source\\Repos\\TrainingForExamCSharp\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avraham\\source\\repos\\TrainingForExam\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj": {
+    "C:\\Users\\Avraham\\Source\\Repos\\TrainingForExamCSharp\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avraham\\source\\repos\\TrainingForExam\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj",
+        "projectUniqueName": "C:\\Users\\Avraham\\Source\\Repos\\TrainingForExamCSharp\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj",
         "projectName": "TrainingForExam",
-        "projectPath": "C:\\Users\\Avraham\\source\\repos\\TrainingForExam\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj",
+        "projectPath": "C:\\Users\\Avraham\\Source\\Repos\\TrainingForExamCSharp\\TrainingForExam\\TrainingForExam\\TrainingForExam.csproj",
         "packagesPath": "C:\\Users\\Avraham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Avraham\\source\\repos\\TrainingForExam\\TrainingForExam\\TrainingForExam\\obj\\",
+        "outputPath": "C:\\Users\\Avraham\\Source\\Repos\\TrainingForExamCSharp\\TrainingForExam\\TrainingForExam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
